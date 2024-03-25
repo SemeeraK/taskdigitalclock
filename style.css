@@ -204,7 +204,7 @@ h1{
     z-index: 1;
 }
 body:not(.dark-mode) {
-    background-image: url('./li1.webp');
+    background-image: url('./w8.png');
     background-size: cover;
     background-repeat: no-repeat;
     background-attachment: fixed;
@@ -217,7 +217,7 @@ body.dark-mode {
     
 }
 body:not(.dark-mode) .front-clock {
-   background: linear-gradient(360deg, #86d9da, #bb859b);
+   background: linear-gradient(360deg, #f4f7f7, #e8e5e6);
     color: #080909;
 }
 
